@@ -2,7 +2,7 @@
 
 EXT_AUDIO=("mp3" "wav" "raw")
 EXT_VIDEO=("mp4" "mov" "mkv")
-EXT_IMG=("png" "jpg" "jpeg" "gif" "svg" "heic" "tif" "tiff")
+EXT_IMG=("png" "jpg" "jpeg" "gif" "svg" "heic" "tif" "tiff" "webp")
 EXT_DOC=("txt" "pdf" "csv" "xls" "xlsx" "doc" "docx" "html" "ppt" "pptx")
 EXT_COMPR=("zip" "7z" "rar" "tar" "gz" "pkg" "deb")
 
